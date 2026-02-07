@@ -12,7 +12,6 @@ terraform {
     bucket = "remote-state-84s-86s-dev"
     key    = "github-runner"
     region = "us-east-1"
-    use_lockfile = true
     encrypt = true
   }
 }
