@@ -8,12 +8,12 @@ variable "environment" {
 
 variable "zone_name" {
   type        = string
-  default     = "daws86s.fun"
+  default     = "muraliitemp.online"
   description = "description"
 }
 
 variable "zone_id" {
   type        = string
-  default     = "Z01894583A5LLRAMEST3A"
+  default     = "Z01602722QJVZMCD67LWU"
   description = "description"
 }
